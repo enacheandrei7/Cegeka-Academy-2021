@@ -1,0 +1,13 @@
+C:\Users\Enachele\Exercitii\Car_App\bin\Debug\netcoreapp3.1\Car_App.exe
+C:\Users\Enachele\Exercitii\Car_App\bin\Debug\netcoreapp3.1\Car_App.deps.json
+C:\Users\Enachele\Exercitii\Car_App\bin\Debug\netcoreapp3.1\Car_App.runtimeconfig.json
+C:\Users\Enachele\Exercitii\Car_App\bin\Debug\netcoreapp3.1\Car_App.runtimeconfig.dev.json
+C:\Users\Enachele\Exercitii\Car_App\bin\Debug\netcoreapp3.1\Car_App.dll
+C:\Users\Enachele\Exercitii\Car_App\bin\Debug\netcoreapp3.1\Car_App.pdb
+C:\Users\Enachele\Exercitii\Car_App\obj\Debug\netcoreapp3.1\Car_App.csprojAssemblyReference.cache
+C:\Users\Enachele\Exercitii\Car_App\obj\Debug\netcoreapp3.1\Car_App.AssemblyInfoInputs.cache
+C:\Users\Enachele\Exercitii\Car_App\obj\Debug\netcoreapp3.1\Car_App.AssemblyInfo.cs
+C:\Users\Enachele\Exercitii\Car_App\obj\Debug\netcoreapp3.1\Car_App.csproj.CoreCompileInputs.cache
+C:\Users\Enachele\Exercitii\Car_App\obj\Debug\netcoreapp3.1\Car_App.dll
+C:\Users\Enachele\Exercitii\Car_App\obj\Debug\netcoreapp3.1\Car_App.pdb
+C:\Users\Enachele\Exercitii\Car_App\obj\Debug\netcoreapp3.1\Car_App.genruntimeconfig.cache
