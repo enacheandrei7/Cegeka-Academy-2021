@@ -1,0 +1,11 @@
+The program contains 2 controllers, buyers and cars.
+GET:
+-- api/buyers
+-- api/cars
+POST:
+-- api/buyers
+-- api/cars
+PUT:
+-- api/cars/car/{id}
+DELTE:
+-- api/cars/car/{id}
